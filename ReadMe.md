@@ -22,3 +22,9 @@ There was a down period of a couple weeks before I noted that the website was up
 [Proposed Members' Bills](https://web.archive.org/web/20230000000000*/https://bills.parliament.nz/proposed-members-bills)
 
 A twice-daily crontab is running to keep this up to date. I have yet to discover a better way to present this information, as navigating Wayback Machine can be challenging.
+
+##spn.sh
+
+To do the actual archiving, we make use of overcast07's [Wayback Machine SPN Scripts](https://github.com/overcast07/wayback-machine-spn-scripts).
+
+This is capable of running through the bills.txt and pdfs.txt files to archive every URL contained in them.
