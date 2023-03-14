@@ -11,16 +11,12 @@ In an effort to retain this information, this script was developed to regularly 
 It backs up twice a day, just in case anything is missed on one of the runs. Once at noon, and once at midnight.
 
 All the backups from before 2023-03-03 can be viewed at these four links:  
-[Proposed Members' Bills - Page 1](https://web.archive.org/web/20221101000000*/https://www.parliament.nz/en/pb/bills-and-laws/proposed-members-bills/?page=1)
-
-[Proposed Members' Bills - Page 2](https://web.archive.org/web/20221101000000*/https://www.parliament.nz/en/pb/bills-and-laws/proposed-members-bills/?page=2)
-
-[Proposed Members' Bills - Page 3](https://web.archive.org/web/20221101000000*/https://www.parliament.nz/en/pb/bills-and-laws/proposed-members-bills/?page=3)
-
+[Proposed Members' Bills - Page 1](https://web.archive.org/web/20221101000000*/https://www.parliament.nz/en/pb/bills-and-laws/proposed-members-bills/?page=1)  
+[Proposed Members' Bills - Page 2](https://web.archive.org/web/20221101000000*/https://www.parliament.nz/en/pb/bills-and-laws/proposed-members-bills/?page=2)  
+[Proposed Members' Bills - Page 3](https://web.archive.org/web/20221101000000*/https://www.parliament.nz/en/pb/bills-and-laws/proposed-members-bills/?page=3)  
 [Proposed Members' Bills - Page 4](https://web.archive.org/web/20221101000000*/https://www.parliament.nz/en/pb/bills-and-laws/proposed-members-bills/?page=4)
 
 This is because the proposed bills were split into pages of 20 each, so with often 60+ bills, it took up four pages, and there was no "View all" link.
 
-There was a down period of a couple weeks before I noted that the website was updated and I had to rebuild the code. As of 2023-03-15, every backup can be viewed from:
-
+There was a down period of a couple weeks before I noted that the website was updated and I had to rebuild the code. As of 2023-03-15, every backup can be viewed from:  
 [Proposed Members' Bills](https://web.archive.org/web/20230000000000*/https://bills.parliament.nz/proposed-members-bills).
