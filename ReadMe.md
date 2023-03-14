@@ -18,8 +18,10 @@ All the backups from before 2023-03-03 can be viewed at these four links:
 
 This is because the proposed bills were split into pages of 20 each, so with often 60+ bills, it took up four pages, and there was no "View all" link.
 
-There was a down period of a couple weeks before I noted that the website was updated and I had to rebuild the code. As of 2023-03-15, every backup can be viewed from:  
+There was a down period of a couple weeks before I noted that the website was updated and I had to rebuild the code. As of 2023-03-15, the lists look like this:  
 [Proposed Members' Bills](https://web.archive.org/web/20230000000000*/https://bills.parliament.nz/proposed-members-bills)
+
+Unfortunately, there is no longer a way to "click through" the pages, as this is not collected by the archive. I will be working to create an alternative system.
 
 A twice-daily crontab is running to keep this up to date. I have yet to discover a better way to present this information, as navigating Wayback Machine can be challenging.
 
