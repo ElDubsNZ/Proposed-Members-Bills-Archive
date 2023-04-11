@@ -23,7 +23,12 @@ There was a down period of a couple weeks before I noted that the website was up
 
 Unfortunately, there is no longer a way to "click through" the pages, as this is not collected by the archive. I will be working to create an alternative system.
 
-A twice-daily crontab is running to keep this up to date. I have yet to discover a better way to present this information, as navigating Wayback Machine can be challenging.
+A twice-daily crontab is running to keep this up to date. As well as this, an hourly check for any changes occurs, and if a change is found, an additional backup to Internet Archive Occurs.
+
+I've created a wordpress blog to present changes, though I am looking for a better solution:
+https://proposedbills.wordpress.com/
+
+I have yet to discover a better way to present this information, as navigating Wayback Machine can be challenging.
 
 ##spn.sh
 
