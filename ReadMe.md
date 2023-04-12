@@ -28,7 +28,7 @@ A twice-daily crontab is running to keep this up to date. As well as this, an ho
 I've created a wordpress blog to present changes, though I am looking for a better solution:
 https://proposedbills.wordpress.com/
 
-I have yet to discover a better way to present this information, as navigating Wayback Machine can be challenging.
+I have yet to discover a better way to present this information, but have been considering linking in with Wikidata, which could structure the information much better and also track changes to the bill's metadata.
 
 ##spn.sh
 
